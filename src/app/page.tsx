@@ -8,7 +8,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-6">
-              Advancing AI Safety Through Hardware
+              FlexHEG: Flexible Hardware-Enabled Guarantees
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto mb-12">
               Enabling multilateral, privacy-preserving and trustworthy
